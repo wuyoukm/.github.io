@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>岛1111</title>
-  <icon>https://www.gravatar.com/avatar/71ccfa8e8552c9d8775d68b75462bc16</icon>
-  <subtitle>面朝大海，春暖花开2222</subtitle>
-  <link href="https://shen-yu.gitee.io/atom.xml" rel="self"/>
+  <title>海</title>
+  <icon>https://www.gravatar.com/avatar/da6da732b447f167f64635b91fb9922a</icon>
+  <subtitle>面朝大海，春暖花开</subtitle>
+  <link href="https://github.com/wuyoukm/atom.xml" rel="self"/>
   
-  <link href="https://shen-yu.gitee.io/"/>
+  <link href="https://github.com/wuyoukm/"/>
   <updated>2020-08-20T11:34:35.408Z</updated>
-  <id>https://shen-yu.gitee.io/</id>
+  <id>https://github.com/wuyoukm/</id>
   
   <author>
-    <name>Eric Shen44444</name>
-    <email>shenyu@hotmail.com</email>
+    <name>wuyoukm</name>
+    <email>wuyoukm@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>hello word</title>
-    <link href="https://shen-yu.gitee.io/2020/cke2vm1460001yrpk5wtuape7/"/>
-    <id>https://shen-yu.gitee.io/2020/cke2vm1460001yrpk5wtuape7/</id>
+    <link href="https://github.com/wuyoukm/2020/cke2vvpy00001s1pkgaah600j/"/>
+    <id>https://github.com/wuyoukm/2020/cke2vvpy00001s1pkgaah600j/</id>
     <published>2020-08-20T11:34:35.000Z</published>
     <updated>2020-08-20T11:34:35.408Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://shen-yu.gitee.io/2020/cke2vm1480002yrpk6o379waw/"/>
-    <id>https://shen-yu.gitee.io/2020/cke2vm1480002yrpk6o379waw/</id>
+    <link href="https://github.com/wuyoukm/2020/cke2vvpy30002s1pkfoqo9fah/"/>
+    <id>https://github.com/wuyoukm/2020/cke2vvpy30002s1pkfoqo9fah/</id>
     <published>2020-08-20T11:34:06.806Z</published>
     <updated>2020-08-20T11:34:06.806Z</updated>
     
