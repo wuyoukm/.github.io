@@ -12,4 +12,17 @@
         <tag>生活</tag>
       </tags>
   </entry>
+  <entry>
+    <title>内网web资产收集脚本</title>
+    <url>/posts/%E8%84%9A%E6%9C%AC/%E5%86%85%E7%BD%91web%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86%E8%84%9A%E6%9C%AC/</url>
+    <content><![CDATA[<h3 id="自己写的内网web资产收集脚本，很拙劣，以后再慢慢改进吧"><a href="#自己写的内网web资产收集脚本，很拙劣，以后再慢慢改进吧" class="headerlink" title="自己写的内网web资产收集脚本，很拙劣，以后再慢慢改进吧"></a>自己写的内网web资产收集脚本，很拙劣，以后再慢慢改进吧</h3><p> <a href="https://www.runoob.com/">查看源码戳这里</a></p>
+]]></content>
+      <categories>
+        <category>脚本</category>
+      </categories>
+      <tags>
+        <tag>内网</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
 </search>
