@@ -3,11 +3,11 @@
   <title>海</title>
   <icon>https://www.gravatar.com/avatar/da6da732b447f167f64635b91fb9922a</icon>
   <subtitle>面朝大海，春暖花开</subtitle>
-  <link href="https://github.com/wuyoukm/atom.xml" rel="self"/>
+  <link href="http://blog.wuyoukm.top/atom.xml" rel="self"/>
   
-  <link href="https://github.com/wuyoukm/"/>
+  <link href="http://blog.wuyoukm.top/"/>
   <updated>2020-08-20T15:21:45.120Z</updated>
-  <id>https://github.com/wuyoukm/</id>
+  <id>http://blog.wuyoukm.top/</id>
   
   <author>
     <name>wuyoukm</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hello_word</title>
-    <link href="https://github.com/wuyoukm/posts/%E7%94%9F%E6%B4%BB/hello-word/"/>
-    <id>https://github.com/wuyoukm/posts/%E7%94%9F%E6%B4%BB/hello-word/</id>
+    <link href="http://blog.wuyoukm.top/posts/%E7%94%9F%E6%B4%BB/hello-word/"/>
+    <id>http://blog.wuyoukm.top/posts/%E7%94%9F%E6%B4%BB/hello-word/</id>
     <published>2020-08-20T15:01:04.000Z</published>
     <updated>2020-08-20T15:21:45.120Z</updated>
     
@@ -30,10 +30,10 @@
     
     
     
-    <category term="生活" scheme="https://github.com/wuyoukm/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="http://blog.wuyoukm.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="生活" scheme="https://github.com/wuyoukm/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="http://blog.wuyoukm.top/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
