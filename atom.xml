@@ -6,7 +6,7 @@
   <link href="http://blog.wuyoukm.top/atom.xml" rel="self"/>
   
   <link href="http://blog.wuyoukm.top/"/>
-  <updated>2020-09-03T08:04:12.621Z</updated>
+  <updated>2020-09-03T08:08:07.505Z</updated>
   <id>http://blog.wuyoukm.top/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="http://blog.wuyoukm.top/posts/%E8%84%9A%E6%9C%AC/%E5%86%85%E7%BD%91web%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86%E8%84%9A%E6%9C%AC/"/>
     <id>http://blog.wuyoukm.top/posts/%E8%84%9A%E6%9C%AC/%E5%86%85%E7%BD%91web%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86%E8%84%9A%E6%9C%AC/</id>
     <published>2020-08-21T05:28:52.000Z</published>
-    <updated>2020-09-03T08:04:12.621Z</updated>
+    <updated>2020-09-03T08:08:07.505Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧"><a href="#自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧" class="headerlink" title="自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧"></a>自己写的内网web资产收集脚本。<a id="more"></a>很拙劣，以后再慢慢改进吧<!--more--></h3><p><img src="http://tc.wuyoukm.top/2020-09-03-hn44g3.png" alt="avatar"></p><p> <a href="https://github.com/wuyoukm/Scan-WebAssets">查看源码戳这里</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="代码实现"><a href="#代码实现" class="headerlink" title="代码实现"></a>代码实现</h1><a id="more"></a>自己写的内网web资产收集脚本,很拙劣，以后再慢慢改进吧<!--more--><p><img src="http://tc.wuyoukm.top/2020-09-03-hn44g3.png" alt="avatar"></p><p> <a href="https://github.com/wuyoukm/Scan-WebAssets">查看源码戳这里</a></p>]]></content>
     
     
-    <summary type="html">&lt;h3 id=&quot;自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧&quot;&gt;&lt;a href=&quot;#自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧&quot; class=&quot;headerlink&quot; title=&quot;自己写的内网web资产收集脚本。很拙劣，以后再慢慢改进吧&quot;&gt;&lt;/a&gt;自己写的内网web资产收集脚本。</summary>
+    <summary type="html">&lt;h1 id=&quot;代码实现&quot;&gt;&lt;a href=&quot;#代码实现&quot; class=&quot;headerlink&quot; title=&quot;代码实现&quot;&gt;&lt;/a&gt;代码实现&lt;/h1&gt;</summary>
     
     
     
